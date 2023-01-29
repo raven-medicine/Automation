@@ -1,7 +1,7 @@
 echo 'Checking Current User'
 whoami
 echo 'Check Network Status'
-if a
+ip a
 echo 'Check Kernel Version'
 uname -an
 echo 'Check /etc/passwd'
